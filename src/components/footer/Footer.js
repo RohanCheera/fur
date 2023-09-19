@@ -34,6 +34,22 @@ function Footer() {
       </div>
     </div>
     </div>
+    <hr className='hr'/>
+    <hr className='hr1'/>
+    <hr className='hr2'/>
+    <hr className='hr3'/>
+    <hr className='hr4'/>
+    <hr className='hr5'/>
+    <hr className='hr6'/>
+    <hr className='hr7'/>
+    <hr className='hr8'/>
+    <hr className='hr9'/>
+    <div className='footer-footer'>
+    <div className='footer-footer-sub'>
+    FurEver Companion
+    </div>
+    <div className='footer-footer-sub'></div>
+    </div>
     </div>
   )
 }
