@@ -25,12 +25,12 @@ function Footer() {
     <div className='footer-headding'>
     Get connected
       </div>
-      <div className='footer-headding-content'>
-      <div className='sm-icon1'>Fb</div>
-      <div className='sm-icon1'>TW</div>
-      <div className='sm-icon1'>YT</div>
-      <div className='sm-icon1'>IG</div>
-      <div className='sm-icon1'>Ln</div>
+      <div className='footer-headding-content-3'>
+      <div className='sm-icon'>Fb</div>
+      <div className='sm-icon'>TW</div>
+      <div className='sm-icon'>YT</div>
+      <div className='sm-icon'>IG</div>
+      <div className='sm-icon'>Ln</div>
       </div>
     </div>
     </div>
