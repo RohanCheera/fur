@@ -11,7 +11,13 @@ function HomeMain() {
       </div>
       <div className='home-main-marque'>
         <div className='marque'>
-          Hi,This is Rohan.
+          <div className='marque-title'>
+            Notifications
+          </div>
+          <div className='marque-body'></div>
+          <div className='marque-more'>
+            View All
+          </div>
         </div>
       </div>
       <div className='home-main-article'>

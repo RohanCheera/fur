@@ -23,7 +23,30 @@
     margin-top: 5px;
 }
 .marque{
+    display: flex;
+
+}
+.marque-title{
+    padding: 10px;
     color: green;
+    width: 10%;
+    font-size: 20px;
+    font-weight: 700;
+    border-right: 2px solid green;
+}
+.marque-body{
+    padding: 10px;
+    width: 80%;
+    font-size: 20px;
+    
+}
+.marque-more{
+    padding: 10px;
+    color: green;
+    width: 10%;
+    font-size: 20px;
+    font-weight: 700;
+    border-left: 2px solid green;
 }
 .home-main-article{
     padding-top: 20px;
