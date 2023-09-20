@@ -1,4 +1,22 @@
 .home-main{
     height: 200vh;
-    background-color: blue;
+    background-color: #000;
+    color: #fff;
+}
+.home-main-courosel{
+    padding-top: 20px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+.courosel{
+    height: 80vh;
+    width: 80vw;
+    background-color: #fff;
+}
+.hrhm{
+    margin: 10px;
+    border: 2px solid rgb(184, 16, 16);
 }

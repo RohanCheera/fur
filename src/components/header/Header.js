@@ -7,6 +7,23 @@ function Header() {
         <div className='header-main'>
             FurEver Companion
         </div>
+        <div className='header-navs'>
+        <div className='header-nav'>
+            Home 
+        </div>
+        <div className='header-nav'>
+            Our Work
+        </div>
+        <div className='header-nav'>
+            Take Action
+        </div>
+        <div className='header-nav'>
+            Blogs
+        </div>
+        <div className='header-nav'>
+            About Us
+        </div>
+        </div>
     </div>
   )
 }
