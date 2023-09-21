@@ -1,0 +1,26 @@
+.blog{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.blogtitle{
+    font-size: 30px;
+    color: blue;
+    text-align: center;
+    font-weight: 700;
+}
+.blog-main{
+    padding: 10px;
+    width: 70%;
+  }
+.blog-contents{
+    width: 30%;
+    background: yellow;
+    margin: 10px;
+}
+.blogpagenation{
+    height: 50px;
+    background: red;
+    margin-left: 10px;
+
+}
