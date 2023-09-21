@@ -14,23 +14,8 @@ function Header() {
         <NavLink className='header-nav' to={'./action'}>Take Action</NavLink>        
         <NavLink className='header-nav' to={'./blog'}>Blogs</NavLink>        
         <NavLink className='header-nav' to={'./about'}>About Us</NavLink>        
-         
-{/* 
-        <div className='header-nav'>
-            Home 
-        </div>
-        <div className='header-nav'>
-            Our Work
-        </div>
-        <div className='header-nav'>
-            Take Action
-        </div>
-        <div className='header-nav'>
-            Blogs
-        </div>
-        <div className='header-nav'>
-            About Us
-        </div> */}
+ 
+        
         </div>
     </div>
   )
