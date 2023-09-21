@@ -1,4 +1,5 @@
 import React from 'react';
+import {NavLink} from 'react-router-dom';
 import './header.css'
 
 function Header() {
@@ -8,6 +9,13 @@ function Header() {
             FurEver Companion
         </div>
         <div className='header-navs'>
+        <NavLink className='header-nav' to={'./'}>Home</NavLink>        
+        <NavLink className='header-nav' to={'./work'}>Our Work</NavLink>        
+        <NavLink className='header-nav' to={'./action'}>Take Action</NavLink>        
+        <NavLink className='header-nav' to={'./blog'}>Blogs</NavLink>        
+        <NavLink className='header-nav' to={'./about'}>About Us</NavLink>        
+         
+{/* 
         <div className='header-nav'>
             Home 
         </div>
@@ -22,7 +30,7 @@ function Header() {
         </div>
         <div className='header-nav'>
             About Us
-        </div>
+        </div> */}
         </div>
     </div>
   )
