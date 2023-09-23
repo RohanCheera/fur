@@ -3,7 +3,11 @@ import "./action.css";
 
 function Action() {
   return (
-    <div>Action</div>
+    <div className='action'>
+      <div className='courosel-actions'>
+
+      </div>
+    </div>
   )
 }
 
